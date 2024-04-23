@@ -21,7 +21,6 @@ public class homeWork {
         Configuration.pageLoadTimeout = 100000;
         Configuration.browserSize = "1980x1980";
     }
-
     @Test
     void firstTest(){
         open("/automation-practice-form");
