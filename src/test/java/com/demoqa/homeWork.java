@@ -51,14 +51,5 @@ public class homeWork {
         $(".table").shouldHave(text("Address"), text("I am Nikita Pidarasov and i have friend Matvey Huesosov"));
         $(".table").shouldHave(text("State and City"), text("NCR Delhi"));
         $("#closeLargeModal").click();
-
-
-
-
-
-
-
-
-
     }
 }
